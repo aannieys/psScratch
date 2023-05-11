@@ -1,1 +1,3 @@
-# psScratch
+# Scratch
+
+## Problem Solving Course
